@@ -1,0 +1,6 @@
+﻿# Welcome
+
+> ✅ Your website is working.
+
+- [Welcome](http://manual.gardenguru.co.zw/): Welcome
+- [Introduction](http://manual.gardenguru.co.zw/introduction.md): So, the first thing you might be curious about is this documentation ...It is just markdown and it is powered by retype incase you need to make changes later in the future, so don't forget that.

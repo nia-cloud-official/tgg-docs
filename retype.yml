@@ -1,7 +1,7 @@
 input: .
-output: .retype
+output: ./build
 
-url: docs.example.com # Use your website address here
+url: http://manual.gardenguru.co.zw # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
