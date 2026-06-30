@@ -1,0 +1,6 @@
+﻿# Welcome
+
+> ✅ Your website is working.
+
+- [Welcome](https://docs.example.com/): Welcome
+- [Introduction](https://docs.example.com/introduction.md): So, the first thing you might be curious about is this documentation ...It is just markdown and it is powered by retype incase you need to make changes later in the future, so don't forget that.
